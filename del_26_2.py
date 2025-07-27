@@ -6,8 +6,8 @@ Created on Sat Jul 26 16:56:28 2025
 """
 import streamlit as st
 import pandas as pd
-import plotly.graph_objects as go
-
+# import plotly.graph_objects as go
+import plotly
 
 # Cargamos la base de datos
 
