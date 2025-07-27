@@ -4,3 +4,7 @@ matplotlib
 plotly
 wordcloud
 openpyxl
+statsmodels.api
+ols
+seaborn
+matplotlib.pyplot
