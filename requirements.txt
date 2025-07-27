@@ -8,3 +8,4 @@ statsmodels.api
 ols
 seaborn
 matplotlib.pyplot
+numpy
