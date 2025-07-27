@@ -165,22 +165,22 @@
         }
        ],
        "layout": {
-        "autosize": true,
+        "autosize": True,
         "polar": {
          "angularaxis": {
           "type": "category"
          },
          "radialaxis": {
-          "autorange": false,
+          "autorange": False,
           "range": [
            1,
            7
           ],
           "type": "linear",
-          "visible": true
+          "visible": True
          }
         },
-        "showlegend": true,
+        "showlegend": True,
         "template": {
          "data": {
           "bar": [
@@ -496,7 +496,7 @@
           ],
           "pie": [
            {
-            "automargin": true,
+            "automargin": True,
             "type": "pie"
            }
           ],
@@ -852,8 +852,8 @@
            "bgcolor": "white",
            "lakecolor": "white",
            "landcolor": "#E5ECF6",
-           "showlakes": true,
-           "showland": true,
+           "showlakes": True,
+           "showland": True,
            "subunitcolor": "white"
           },
           "hoverlabel": {
@@ -884,7 +884,7 @@
             "gridcolor": "white",
             "gridwidth": 2,
             "linecolor": "white",
-            "showbackground": true,
+            "showbackground": True,
             "ticks": "",
             "zerolinecolor": "white"
            },
@@ -893,7 +893,7 @@
             "gridcolor": "white",
             "gridwidth": 2,
             "linecolor": "white",
-            "showbackground": true,
+            "showbackground": True,
             "ticks": "",
             "zerolinecolor": "white"
            },
@@ -902,7 +902,7 @@
             "gridcolor": "white",
             "gridwidth": 2,
             "linecolor": "white",
-            "showbackground": true,
+            "showbackground": True,
             "ticks": "",
             "zerolinecolor": "white"
            }
@@ -934,7 +934,7 @@
            "x": 0.05
           },
           "xaxis": {
-           "automargin": true,
+           "automargin": True,
            "gridcolor": "white",
            "linecolor": "white",
            "ticks": "",
@@ -945,7 +945,7 @@
            "zerolinewidth": 2
           },
           "yaxis": {
-           "automargin": true,
+           "automargin": True,
            "gridcolor": "white",
            "linecolor": "white",
            "ticks": "",
